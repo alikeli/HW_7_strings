@@ -5,9 +5,9 @@ public class Main {
         //Task 1
 
         String firstName = "Ivan";
-        String middleName  = "Ivanovich";
-        String  lastName = "Ivanov";
-        String  fullName = lastName + " " + firstName + " " + middleName;
+        String middleName = "Ivanovich";
+        String lastName = "Ivanov";
+        String fullName = lastName + " " + firstName + " " + middleName;
         System.out.printf("ФИО сотрудника — %s \n", fullName);
 
         //Task 2
@@ -22,11 +22,5 @@ public class Main {
         System.out.printf("Данные ФИО сотрудника — %s \n", fullName);
 
         // какя-то нербериха с 3 и 4 задачей в домашке(
-
-
-
-
-
-
     }
 }
